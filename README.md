@@ -1,4 +1,4 @@
-# bookinghotel
+# available_hotels
 
 A new Flutter project.
 
